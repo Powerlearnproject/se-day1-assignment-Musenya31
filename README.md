@@ -1,6 +1,4 @@
 
-
-
 #Part 1: Introduction to Software Engineering
 
 1.Explain what software engineering is and discuss its importance in the technology industry
@@ -27,7 +25,7 @@ Mastering machine
 
 
 
-List and briefly explain the phases of the Software Development Life Cycle.
+3.List and briefly explain the phases of the Software Development Life Cycle.
 
  planning - identify the software requirement or purpose and scope.
 
@@ -39,7 +37,7 @@ coding - converting software design into tangible code.
 
  testing - examine the software for any bugs and glitches
 
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+4.Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 waterfall methodology - Linear and sequential, each phase is completed before moving on.
 
@@ -62,7 +60,7 @@ agile methodology - Iterative and incremental, with multiple cycles (sprints).
 
 
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+5.Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 Software Developer - developing applications,programs and systems using programming languages and frameworks.
 
@@ -94,7 +92,7 @@ Project Manager - assembles and lead the software development team.
 
 
 
-Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+6.Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 An integrated development environment (IDE) is a software platform that facilitates the creation of other software applications by providing a space to write, compile, and debug code, sometimes with value-adding tools that reduce development efforts. eg Visual Studio Code (VSCode)
 
@@ -121,7 +119,7 @@ Change Tracking: Records detailed history of changes, allowing easy analysis of 
 Error Recovery: Allows reverting to previous versions if new changes introduce errors
 
 
-What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+7.What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 -rapid technological advancement places considerable pressure on software engineers to stay current.
 
@@ -148,7 +146,7 @@ Software Accessibility and Usability - Overly complex software can frustrate or 
 Solution: Use scalable architecture, Emphasize reliability.
 
 
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+8.Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 Unit tests - are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software. - it ensures that each unit performs its intended function correctly, isolated from other components.
 
@@ -166,7 +164,7 @@ Acceptance tests - are formal tests that verify if a system satisfies business r
 
 #Part 2: Introduction to AI and Prompt Engineering
 
-Define prompt engineering and discuss its importance in interacting with AI models.
+9.Define prompt engineering and discuss its importance in interacting with AI models.
  prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
 
 Importance:
@@ -178,7 +176,7 @@ Increased flexibility - A prompt engineer can create prompts with domain-neutral
 developer control - Prompt engineering gives developers more control over users' interactions with the AI. Effective prompts provide intent and establish context to the large language models. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise.
 
 
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+10.Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Draw a picture of a person
 
 Draw a full-body portrait of a young woman with long brown hair, wearing a red jacket and blue jeans, standing in a park on a sunny day with trees and grass in the background.
